@@ -11,7 +11,10 @@ dependencies:
   build: ^2.0.1
   dotenv: ^3.0.0
   envify:
-    path: '../envify'
+    git:
+      url: https://github.com/uniqcast/envify
+      ref: ec577d3a83a611f5a84f79f54fbcdc9fab56d2b1
+      path: envify
   path: ^1.8.0
   source_gen: ^1.0.0
 
