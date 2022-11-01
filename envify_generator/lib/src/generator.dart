@@ -41,7 +41,7 @@ class EnvifyGenerator extends GeneratorForAnnotation<Envify> {
     final lines = el.fields.map(
       (field) => generateLine(
         field,
-        envs.containsKey(normalize(field.name))
+        envs.isDefined(normalize(field.name))
             ? envs[normalize(field.name)]
             : null,
       ),
