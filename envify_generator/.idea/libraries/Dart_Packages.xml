@@ -177,7 +177,7 @@
         <entry key="envify">
           <value>
             <list>
-              <option value="$PROJECT_DIR$/../envify/lib" />
+              <option value="$USER_HOME$/.pub-cache/git/envify-ec577d3a83a611f5a84f79f54fbcdc9fab56d2b1/envify/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/envify-2.0.2/lib" />
             </list>
           </value>
@@ -516,6 +516,7 @@
       </option>
     </properties>
     <CLASSES>
+      <root url="file://$USER_HOME$/.pub-cache/git/envify-ec577d3a83a611f5a84f79f54fbcdc9fab56d2b1/envify/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-31.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/_fe_analyzer_shared-47.0.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/analyzer-2.8.0/lib" />
@@ -594,7 +595,6 @@
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/web_socket_channel-2.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/webkit_inspection_protocol-1.2.0/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/yaml-3.1.1/lib" />
-      <root url="file://$PROJECT_DIR$/../envify/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
